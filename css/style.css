@@ -364,6 +364,7 @@ h1 {
   margin: 0;
   padding: 0;
   width: 50vw;
+  height: 35vw;
   background-position: center;
   object-fit: cover;
   background-size: auto;

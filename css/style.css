@@ -96,7 +96,7 @@ h1 {
 }
 
 .main_section__background_image {
-  background-image: url(/img/lady.jpg);
+  background-image: url(img/lady.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -222,7 +222,7 @@ h1 {
 }
 
 .services_section__background_image {
-  background-image: url(/img/services_bg.jpg);
+  background-image: url(img/services_bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 470px;
@@ -270,7 +270,7 @@ h1 {
 }
 
 .pricing_section__background_image {
-  background-image: url(/img/pricing_bg.jpg);
+  background-image: url(img/pricing_bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;

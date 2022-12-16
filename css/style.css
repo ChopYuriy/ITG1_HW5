@@ -585,3 +585,22 @@ footer {
     width: auto;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .wrapper {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: auto;
+  }
+
+    #contact_section img {
+    margin: 0;
+    padding: 0;
+    width: 50vw;
+    height: 30vw;
+    background-position: center;
+    object-fit: cover;
+    background-size: auto;
+  }
+}
